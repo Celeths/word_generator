@@ -1,5 +1,5 @@
 """Random Word Generator V. 2.1
-    By Jeffrey """
+    By Leveles """
 
 from random import randint
 import random
